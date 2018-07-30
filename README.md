@@ -3,11 +3,11 @@ Starting with Symfony framework
 
 >Necessário PHP 7.1 instalado
 
-> sudo port install php71
+>> sudo port install php71
 
-> sudo port install php71-iconv    
+>> sudo port install php71-iconv    
 
-> sudo port install php71-openssl
+>> sudo port install php71-openssl
 
 ## Install composer
 https://getcomposer.org/download/
