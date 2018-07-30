@@ -25,5 +25,5 @@ php composer-setup.php
   mv composer.phar /usr/local/bin/composer
   
 ### Criando um projeto
-  composer create-project symfony/website-skeleton <my-project>
+  composer create-project symfony/website-skeleton my-project
   
