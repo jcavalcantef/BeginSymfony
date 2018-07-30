@@ -3,6 +3,12 @@ Starting with Symfony framework
 
 >Necessário PHP 7.1 instalado
 
+> sudo port install php71
+
+> sudo port install php71-iconv    
+
+> sudo port install php71-openssl
+
 ## Install composer
 https://getcomposer.org/download/
 
@@ -19,5 +25,5 @@ php composer-setup.php
   mv composer.phar /usr/local/bin/composer
   
 ### Criando um projeto
-  composer create-project <nome do projeto>
+  composer create-project symfony/website-skeleton <my-project>
   
