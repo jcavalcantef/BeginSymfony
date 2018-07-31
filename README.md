@@ -26,4 +26,7 @@ php composer-setup.php
   
 ### Criando um projeto
   composer create-project symfony/website-skeleton my-project
-  
+
+### Criando servidor Web   
+composer require symfony/web-server-bundle --dev
+
